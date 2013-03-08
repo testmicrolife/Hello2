@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         int i=1;
         int y=3;
+        int x=4;
     }
 
 
