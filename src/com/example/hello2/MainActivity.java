@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
         int i=1;
         int y=3;
         int x=4;
+        int k=5;
     }
 
 
