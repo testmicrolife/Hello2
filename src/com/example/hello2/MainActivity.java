@@ -16,7 +16,7 @@ public class MainActivity extends Activity {
         int k=5;
         int z=6;
         int g=7;
-        int b=9;
+        int a=8;
     }
 
 
