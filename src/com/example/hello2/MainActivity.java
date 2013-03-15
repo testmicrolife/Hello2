@@ -11,15 +11,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         int i=1;
-        int y=3;
-        int x=4;
-        int k=5;
-        int z=6;
 
-        int g=7;
-        int a=8;
-        int b=9;
-        int c=10;
 
     }
 
