@@ -10,6 +10,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         int a=1;
         int b=2;
         int c=3;
@@ -19,6 +20,8 @@ public class MainActivity extends Activity {
         int g=7;
         int h=8;
         int i=9;
+
+
     }
 
 
