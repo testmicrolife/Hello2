@@ -20,7 +20,11 @@ public class MainActivity extends Activity {
         int g=7;
         int h=8;
         int i=9;
+
         int j=10;
+
+        int k=11;
+
 
     }
 
